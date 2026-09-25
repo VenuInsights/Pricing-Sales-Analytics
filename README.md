@@ -14,6 +14,10 @@ The dashboard provides interactive business insights that can support pricing an
 
 ---
 
+## 📸 Dashboard Preview
+
+![Pricing & Sales Analytics Dashboard](powerbi/dashboard_preview.png)
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales and profitability.
